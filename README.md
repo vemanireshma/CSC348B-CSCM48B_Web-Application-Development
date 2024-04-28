@@ -11,3 +11,7 @@ Add comments and reply
 Send mail notification
 
 ![alt text](image-2.png)
+
+Admin Panel
+
+![alt text](Admin-panel.png)
