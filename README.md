@@ -15,3 +15,12 @@ Send mail notification
 Admin Panel
 
 ![alt text](Admin-panel.png)
+
+
+Create Blog Post
+
+![alt text](image-3.png)
+
+Edit and Delete Blog Post
+
+![alt text](image-4.png)
