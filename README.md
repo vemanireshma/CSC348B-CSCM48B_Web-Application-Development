@@ -7,3 +7,7 @@ CSC348B/CSCM48B_Web Application Development
 Add comments and reply
 
 ![alt text](image-1.png)
+
+Send mail notification
+
+![alt text](image-2.png)
